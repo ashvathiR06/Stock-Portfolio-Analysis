@@ -61,3 +61,5 @@ The objective of this project is to demonstrate practical knowledge of Excel, fi
 ## 👤 Author
 
 B.Com Graduate | Finance & Investment Enthusiast
+
+Interested in **Stock Market, Mutual Funds, Investment Operations, Financial Analysis, and Data Analytics**.
